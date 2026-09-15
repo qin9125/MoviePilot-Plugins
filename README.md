@@ -1,8 +1,6 @@
 # MoviePilot-Plugins
 
-适配 MoviePilot V2 插件市场的自用插件仓库。
-
-在 MoviePilot **插件商店 → 添加第三方仓库**中填写：
+适配 MoviePilot V2 插件市场的自用插件仓库 在 MoviePilot **插件商店 → 添加第三方仓库**中填写：
 
    ```text
    https://github.com/qin9125/MoviePilot-Plugins
