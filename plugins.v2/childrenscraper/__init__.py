@@ -84,9 +84,9 @@ class ChildrenScraper(_PluginBase):
     # 插件版本
     plugin_version = "1.0.0"
     # 插件作者
-    plugin_author = "gctts"
+    plugin_author = "qin"
     # 作者主页
-    author_url = "https://github.com/gctts/MoviePilot-ChildrenScraper"
+    author_url = "https://github.com/qin9125"
     # 插件配置项ID前缀
     plugin_config_prefix = "childrenscraper_"
     # 加载顺序
