@@ -39,7 +39,7 @@
   },
   "nodeseeksign": {
     "name": "NodeSeek签到",
-    "description": "NodeSeek 自动签到插件。",
+    "description": "NodeSeek自动签到插件。",
     "labels": "站点",
     "version": "2.1.0",
     "icon": "https://raw.githubusercontent.com/qin9125/MoviePilot-Plugins/main/icons/nodeseek.png",
