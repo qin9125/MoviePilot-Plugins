@@ -5,7 +5,7 @@
     "labels": "刮削",
     "version": "1.0.0",
     "icon": "Amule_B.png",
-    "author": "gctts",
+    "author": "qin",
     "level": 1,
     "history": {
       "v1.0.0": "按插件配置硬链接入库，不走 MoviePilot 转移分类；支持勾选 PG数据库、TMDB、好学作为刮削来源；支持双向删除联动、qB多选记录删除、媒体库刷新和入库通知。"
@@ -17,7 +17,7 @@
     "labels": "刮削",
     "version": "1.2.0",
     "icon": "movie.png",
-    "author": "gctts",
+    "author": "qin",
     "level": 1,
     "history": {
       "v1.2.0": "新增 TMDB 刮削支持，支持可配置的刮削源优先级（TMDB、PTerClub、织梦），默认优先 TMDB。",
@@ -31,7 +31,7 @@
     "labels": "订阅",
     "version": "1.0.0",
     "icon": "rss.png",
-    "author": "gctts",
+    "author": "qin",
     "level": 1,
     "history": {
       "v1.0.0": "备份版本"
@@ -42,8 +42,8 @@
     "description": "NodeSeek 自动签到插件。",
     "labels": "站点",
     "version": "2.1.0",
-    "icon": "https://raw.githubusercontent.com/gctts/MoviePilot-Plugins/main/icons/Nodeseek_A.png",
-    "author": "gctts",
+    "icon": "https://raw.githubusercontent.com/qin9125/MoviePilot-Plugins/main/icons/nodeseek.png",
+    "author": "qin",
     "level": 1,
     "history": {
       "v2.1.0": "NodeSeek论坛自动签到，支持随机奖励和自动重试功能"
