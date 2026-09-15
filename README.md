@@ -5,7 +5,7 @@
 在 MoviePilot **插件商店 → 添加第三方仓库**中填写：
 
    ```text
-   https://github.com/liuyunfz/MoviePilot-Plugins
+   https://github.com/qin9125/MoviePilot-Plugins
    ```
    
 ## 插件
