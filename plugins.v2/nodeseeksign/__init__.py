@@ -1,6 +1,6 @@
 """
 NodeSeek论坛签到插件
-版本: 1.1.0
+版本: 2.1.0
 作者: Madrays
 功能:
 - 自动完成NodeSeek论坛每日签到
@@ -46,15 +46,15 @@ class nodeseeksign(_PluginBase):
     # 插件名称
     plugin_name = "NodeSeek论坛签到"
     # 插件描述
-    plugin_desc = "懒羊羊定制：自动完成NodeSeek论坛每日签到，支持随机奖励和自动重试功能"
+    plugin_desc = "自动完成NodeSeek论坛每日签到，支持随机奖励和自动重试功能"
     # 插件图标
-    plugin_icon = "https://raw.githubusercontent.com/gctts/MoviePilot-Plugins/main/icons/Nodeseek_A.png"
+    plugin_icon = "https://raw.githubusercontent.com/qin9125/MoviePilot-Plugins/main/icons/nodeseek.png"
     # 插件版本
     plugin_version = "2.1.0"
     # 插件作者
-    plugin_author = "madrays"
+    plugin_author = "qin"
     # 作者主页
-    author_url = "https://github.com/madrays"
+    author_url = "https://github.com/qin9125"
     # 插件配置项ID前缀
     plugin_config_prefix = "nodeseeksign_"
     # 加载顺序
