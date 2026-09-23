@@ -49,7 +49,7 @@ class SubscribeAssistant(_PluginBase):
     # 插件描述
     plugin_desc = "多场景管理订阅，实现订阅种子删除以及自动待定/暂停/洗版。"
     # 插件图标
-    plugin_icon = "https://raw.githubusercontent.com/InfinityPacer/MoviePilot-Plugins/main/icons/subscribeassistant.png"
+    plugin_icon = "https://raw.githubusercontent.com/qin9125/MoviePilot-Plugins/main/icons/subscribeassistant.png"
     # 插件版本
     plugin_version = "2.24"
     # 插件作者
