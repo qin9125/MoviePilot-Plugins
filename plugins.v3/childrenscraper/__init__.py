@@ -80,7 +80,7 @@ class ChildrenScraper(_PluginBase):
     # 插件描述
     plugin_desc = "监控儿童剧，按配置硬链接入库，可选 PG数据库、TMDB、好学获取封面和简介。"
     # 插件图标
-    plugin_icon = "Amule_B.png"
+    plugin_icon = "scraper.png"
     # 插件版本
     plugin_version = "1.0.0"
     # 插件作者
