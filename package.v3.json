@@ -7,7 +7,6 @@
     "icon": "scraper.png",
     "author": "qin",
     "level": 1,
-    "release": true,
     "history": {
       "v1.0.0": "按插件配置硬链接入库，不走 MoviePilot 转移分类；支持勾选 PG数据库、TMDB、好学作为刮削来源；支持双向删除联动、qB多选记录删除、媒体库刷新和入库通知。"
     },
@@ -21,7 +20,6 @@
     "icon": "movie.jpg",
     "author": "qin",
     "level": 1,
-    "release": true,
     "history": {
       "v1.2.0": "新增 TMDB 刮削支持，支持可配置的刮削源优先级（TMDB、PTerClub、织梦），默认优先 TMDB。",
       "v1.1.0": "新增站点简介写入NFO和入库通知简介；支持qB多选记录删除、媒体库刷新、站点封面链接通知。",
@@ -37,7 +35,6 @@
     "icon": "https://raw.githubusercontent.com/qin9125/MoviePilot-Plugins/main/icons/subscribeassistant.png",
     "author": "qin",
     "level": 1,
-    "release": true,
     "history": {
       "v2.24": "兼容新版 Transmission SDK 字段，避免订阅种子巡检读取异常。",
       "v2.23": "适配主程序订阅进度刷新，统一洗版回填、完成和删种回滚口径。"
@@ -52,7 +49,6 @@
     "icon": "https://raw.githubusercontent.com/qin9125/MoviePilot-Plugins/main/icons/nodeseek.png",
     "author": "qin",
     "level": 1,
-    "release": true,
     "history": {
       "v2.1.0": "NodeSeek论坛自动签到，支持随机奖励和自动重试功能。"
     },
