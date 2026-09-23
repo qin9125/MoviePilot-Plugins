@@ -1282,7 +1282,7 @@ class SubscribeAssistant(_PluginBase):
                                             {
                                                 'component': 'a',
                                                 'props': {
-                                                    'href': 'https://github.com/InfinityPacer/MoviePilot-Plugins/blob/main/plugins.v2/subscribeassistant/README.md',
+                                                    'href': 'https://github.com/qin9125/MoviePilot-Plugins/blob/main/plugins.v3/subscribeassistant/README.md',
                                                     'target': '_blank'
                                                 },
                                                 'content': [
