@@ -10,8 +10,8 @@
 
 - [儿童刮削](docs/ChildrenScraper.md)，插件 ID：`ChildrenScraper`
 - [短剧刮削](docs/ShortPlayMonitor.md)，插件 ID：`ShortPlayMonitorCustom`
-- 订阅助手，插件 ID：`SubscribeAssistant`
-- NodeSeek签到，插件 ID：`nodeseeksign`
+- [订阅助手](docs/SubscribeAssistant.md)，插件 ID：`SubscribeAssistant`
+- [NodeSeek签到](docs/NodeSeekSign.md)，插件 ID：`nodeseeksign`
 
 ## 短剧刮削改动
 
