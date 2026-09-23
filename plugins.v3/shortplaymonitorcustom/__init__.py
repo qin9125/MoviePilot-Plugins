@@ -77,7 +77,7 @@ class ShortPlayMonitorCustom(_PluginBase):
     # 插件描述
     plugin_desc = "监控短剧，可选 TMDB、PTerClub、织梦获取封面和简介，支持双向删除联动。"
     # 插件图标
-    plugin_icon = "Amule_B.png"
+    plugin_icon = "movie.jpg"
     # 插件版本
     plugin_version = "1.2.0"
     # 插件作者
