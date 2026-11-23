@@ -53,7 +53,7 @@ class SubscribeAssistant(_PluginBase):
     # 插件版本
     plugin_version = "2.24"
     # 插件作者
-    plugin_author = "qin"
+    plugin_author = "qin9125"
     # 作者主页
     author_url = "https://github.com/qin9125"
     # 插件配置项ID前缀
